@@ -1,4 +1,4 @@
-# DEX-arbitrage-bot
+# DEX-arbitrage-price-checker
 DEX arbitrage bot
 
 
